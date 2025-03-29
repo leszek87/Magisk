@@ -6,7 +6,9 @@
 
 ## Introduction
 
-Magisk is a suite of open source tools for customizing Android, supporting devices higher than Android 4.2. It covers fundamental parts of Android customization: root, boot scripts, SELinux patches, AVB2.0 / dm-verity / forceencrypt removals etc.
+Magisk is a suite of open source tools for customizing Android, supporting devices higher than Android 4.2. It covers fundamental parts of Android customization: root, boot scripts
+
+, SELinux patches, AVB2.0 / dm-verity / forceencrypt removals etc.
 
 Here are some feature highlights:
 
